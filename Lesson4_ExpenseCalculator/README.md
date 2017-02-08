@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 7, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexis Marrero
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to complete the unfinished code in order to compile an expense calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alexismarrero.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Javascript is the most popular scripting language and is a client-side language where each line is interpreted as it loads from the browser.)
+2. (Variables are used in javascript to store data in memory.Var is used to decalre variables.)
+3. (Strong typing is also known as static typing. A JavaScript interpreter automatically determines what the data type is.)
